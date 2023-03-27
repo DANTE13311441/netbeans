@@ -17,7 +17,7 @@ public class T7_EjerBas_7 {
         // TODO code application logic here
         CuentaCorriente c1, c2, c3;
         Banco b1, b2;
-        
+            System.out.println("hvieu");
         b1 = new Banco("International Java Bank");
         b2 = new Banco("Caja de ahorros Do-While", 10.6, "c/Larga s/n");
         
